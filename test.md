@@ -1,12 +1,8 @@
 
-# Open Source Tools For GIS - Week 1
+# Open Source Tools For GIS 
 
-### Readings/Homework
-
+## -  Week 1
 #### Code Academy
-
-* Sign up for [Code Academy](https://www.codecademy.com/)
-* None of the 'PRO' (non-free) sections are assigned!
 * Complete Units in the Course Academy [Javascript coursework](https://www.codecademy.com/learn/javascript)
   - Introduction to JavaScript
   - Control Flow
