@@ -16,7 +16,7 @@
   
 
 ## -  Week 3
-#### Section 1: Using functions (liberally!)
+#### 1.Section 1: Using functions (liberally!)
 * Function anatomy
   - Naming/defining functions vs calling functions
   - Providing arguments
@@ -26,10 +26,10 @@
   - Programs are data and its transformations
   - Functions are just transformations on data
   - Functions as values
-#### Live coding: refactoring code into functions
+#### 2.Live coding: refactoring code into functions
 * Step through the code and discuss
 * Imagine alternative code flows
 * Organize the code
 * Make code DRYer ('don't repeat yourself')
     - Redundant code is a headache to maintain
-#### underscore.js
+#### 3.underscore.js
