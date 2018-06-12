@@ -32,4 +32,27 @@
 * Organize the code
 * Make code DRYer ('don't repeat yourself')
     - Redundant code is a headache to maintain
+    
 #### 3.underscore.js
+
+## -  Week 4
+
+
+#### Section 1: Underscore Review
+- More Underscore utilities
+- Underscore scavenger hunt 2
+
+#### Section 2: jQuery & Async Behavior
+- jQuery
+  - Library motivation
+  - Getting data from elsewhere
+  - [ajax](http://api.jquery.com/category/ajax/)
+- Programming in time
+  - Working with (future) data
+  - Managing state
+
+#### Section 3: Complete HTML/CSS
+  - HTML Basics
+  - Build your own webpage
+  - HTML Basics 2
+  - CSS: An Overview
