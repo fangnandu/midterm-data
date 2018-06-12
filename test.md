@@ -104,7 +104,6 @@
   - Filtering for individual geojson elements
   - Styling individual geojson elements
 - Making a legend in HTML with Leaflet and jQuery
-- [Lab 2](lab/lab2/)
 
 ##### Section 2: Getting Geospatial Data
 - Where to find it
@@ -133,11 +132,9 @@
 
 ##### Section 1: Leaflet Draw
 - Plugin introduction
-- [Lab 1](lab/lab1)
 
 ##### Section 2: Mapbox Utilities
 - In-class exploration of experimentation with an API
-- [Lab 2](lab/lab2)
 
 ## week 10
 ### Frontend Frameworks
@@ -154,3 +151,41 @@
     - Tables
     - Forms
 - Carto
+
+## week 11
+
+
+### SQL Related
+- SQL with CartoDB
+  - Manually writing SQL for analysis
+  - Always:clap:use:clap:the:clap:SQL:clap:console:clap:
+  - SQL [types](https://www.postgresql.org/docs/9.5/static/datatype.html), special Carto columns, and PostGIS [types](https://postgis.net/docs/reference.html#PostGIS_Types)
+  - [Creating new
+    tables](https://github.com/CartoDB/cartodb/wiki/creating-tables-though-the-SQL-API)
+  - Results as GeoJSON
+- SQL Resources
+- Examples
+  - Torque for time series
+  - SQL for persisting data changes, interaction, and GeoJSON
+
+### PostgreSQL & PostGIS Resources
+#### GIS Extension Related
+> Good
+
+- [PostGIS special function
+index](https://postgis.net/docs/PostGIS_Special_Functions_Index.html)
+- [PostGIS reference docs](http://postgis.net/docs/reference.html)
+- [Stack exchange's GIS-specific subdomain](gis.stackexchange.com/)
+
+#### Examples
+
+[CartoDB Torque](./examples/torque/)
+Torque.js is an open source library for creating dynamic visualizations for
+your time series data on top of Leaflet (and with the help of CartoDB).
+If you're dealing with time and space, Torque can build compelling
+visualizations ranging over both dimensions.
+
+
+[CartoDB SQL API](.examples/writing-data/)
+> Keeping API keys in client applications is NOT a safe practice.
+> Do NOT use the techniques from this lab in the wild.
