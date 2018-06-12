@@ -56,3 +56,58 @@
   - Build your own webpage
   - HTML Basics 2
   - CSS: An Overview
+  
+## -  Week 5  
+  
+#### More developer tools
+  - Viewing/playing with HTML and CSS in `elements`
+  - 'Breakpoint debugging' in `sources`
+  - Viewing data transfer in `network`
+- Homework/lab discussion
+  - Thinking through asynchronous behavior and scope
+  - Walk through async code example
+  - Walk through CSS/HTML example
+- Thinking of functions in terms of what they do vs what they are
+  - `return` statements
+  - `_.map` vs `_.each`
+
+##### jQuery Continued
+- Element selection
+  - A central feature of jQuery
+  - CSS selectors
+- jQuery events
+  - 'Binding' events to elements
+  - Asynchronous behavior (just like ajax)
+  
+  
+ ## -  Week 6
+ 
+#### CSS Review
+
+- Answering CSS questions
+- Box Model
+- Position: static, relative, absolute
+
+#### Lecture & Labs
+- Box Model
+- Position: static, relative, absolute
+- Absolute position lab
+- Design overview
+- Figma lab / assignment
+
+## week 7
+### Advanced Cartography
+
+##### Section 1: GeoJson & Leaflet
+- Plotting geojson
+  - What is JSON? (Remember `JSON.parse`?)
+  - Filtering for individual geojson elements
+  - Styling individual geojson elements
+- Making a legend in HTML with Leaflet and jQuery
+- [Lab 2](lab/lab2/)
+
+##### Section 2: Getting Geospatial Data
+- Where to find it
+- Formatting and converting it
+- Using github as a backend (storage)
+- Creating it with geojson.io
