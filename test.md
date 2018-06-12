@@ -111,3 +111,30 @@
 - Formatting and converting it
 - Using github as a backend (storage)
 - Creating it with geojson.io
+
+
+## week9
+### Introduction
+- turf.js (example only)
+  - Spatial join demo
+  - Measurement extraction
+  - Aggregation and analysis
+  - Other stuff (classification, interpolation, utility methods)
+- Leaflet draw (a plugin for the leaflet library)
+  - Generate polygons, points, and lines from user interaction
+- Mapbox APIs
+  - Free(ish) alternative to writing backend code
+  - Powerful (though limited for free users)
+  - Geocoding
+  - Routing
+
+
+### Interaction and analysis
+
+##### Section 1: Leaflet Draw
+- Plugin introduction
+- [Lab 1](lab/lab1)
+
+##### Section 2: Mapbox Utilities
+- In-class exploration of experimentation with an API
+- [Lab 2](lab/lab2)
